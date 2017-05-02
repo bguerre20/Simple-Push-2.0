@@ -1,0 +1,24 @@
+c:\users\bryan\documents\visual studio 2015\Projects\SimplePush\SimplePush\bin\Debug\SimplePush.exe.config
+c:\users\bryan\documents\visual studio 2015\Projects\SimplePush\SimplePush\bin\Debug\SimplePush.exe
+c:\users\bryan\documents\visual studio 2015\Projects\SimplePush\SimplePush\bin\Debug\SimplePush.pdb
+c:\users\bryan\documents\visual studio 2015\Projects\SimplePush\SimplePush\obj\Debug\SimplePush.exe
+c:\users\bryan\documents\visual studio 2015\Projects\SimplePush\SimplePush\obj\Debug\SimplePush.pdb
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\SimplePush\SimplePush\obj\Debug\SimplePush.NotifyWindow.resources
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\SimplePush\SimplePush\obj\Debug\SimplePush.csproj.GenerateResource.Cache
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\SimplePush\SimplePush\obj\Debug\SimplePush.csprojResolveAssemblyReference.cache
+C:\Users\bryan\Desktop\SimplePush-master\SimplePush-master\SimplePush\bin\Debug\SimplePush.exe.config
+C:\Users\bryan\Desktop\SimplePush-master\SimplePush-master\SimplePush\bin\Debug\SimplePush.exe
+C:\Users\bryan\Desktop\SimplePush-master\SimplePush-master\SimplePush\bin\Debug\SimplePush.pdb
+C:\Users\bryan\Desktop\SimplePush-master\SimplePush-master\SimplePush\obj\Debug\SimplePush.csprojResolveAssemblyReference.cache
+C:\Users\bryan\Desktop\SimplePush-master\SimplePush-master\SimplePush\obj\Debug\SimplePush.NotifyWindow.resources
+C:\Users\bryan\Desktop\SimplePush-master\SimplePush-master\SimplePush\obj\Debug\SimplePush.csproj.GenerateResource.Cache
+C:\Users\bryan\Desktop\SimplePush-master\SimplePush-master\SimplePush\obj\Debug\SimplePush.exe
+C:\Users\bryan\Desktop\SimplePush-master\SimplePush-master\SimplePush\obj\Debug\SimplePush.pdb
+C:\Users\bryan\Desktop\Simple-Push-2.0\Desktop Server\SimplePush\bin\Debug\SimplePush.exe.config
+C:\Users\bryan\Desktop\Simple-Push-2.0\Desktop Server\SimplePush\bin\Debug\SimplePush.exe
+C:\Users\bryan\Desktop\Simple-Push-2.0\Desktop Server\SimplePush\bin\Debug\SimplePush.pdb
+C:\Users\bryan\Desktop\Simple-Push-2.0\Desktop Server\SimplePush\obj\Debug\SimplePush.csprojResolveAssemblyReference.cache
+C:\Users\bryan\Desktop\Simple-Push-2.0\Desktop Server\SimplePush\obj\Debug\SimplePush.NotifyWindow.resources
+C:\Users\bryan\Desktop\Simple-Push-2.0\Desktop Server\SimplePush\obj\Debug\SimplePush.csproj.GenerateResource.Cache
+C:\Users\bryan\Desktop\Simple-Push-2.0\Desktop Server\SimplePush\obj\Debug\SimplePush.exe
+C:\Users\bryan\Desktop\Simple-Push-2.0\Desktop Server\SimplePush\obj\Debug\SimplePush.pdb
